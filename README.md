@@ -14,6 +14,8 @@ A simple crud app with React Hooks (+Axios) consuming a simple Nodejs api server
 | react-dom | [link](https://reactjs.org/docs/react-dom.html) |
 | react-scripts | [link](https://github.com/facebook/create-react-app#readme) |
 
+CSS Style - (html tags on index.html): [Materialize](https://materializecss.com/)
+
 ### `npm start`
 Start react app.
 Port: http://localhost:3000
