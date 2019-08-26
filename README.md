@@ -1,6 +1,9 @@
 # Simple Crud
 A simple crud app with React Hooks (+Axios) consuming a simple Nodejs api server (+Sequelize Sqlite).
 
+## Screenshot
+![alt text](https://github.com/arturguitelar/simple-crud-react-nodejs/blob/master/simple-crud-app-screenshot-frontend.png)
+
 ## frontend
 
 | dependencies | links |
