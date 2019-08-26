@@ -59,4 +59,7 @@ The database.sqlite already contains some data.
 
 [Build a CRUD App in React with Hooks - Tania Rascia](https://www.taniarascia.com/crud-app-in-react-with-hooks/) - eng.
 
-[Configurando o ORM Sequelize no NodeJS com ExpressJS](https://blog.rocketseat.com.br/nodejs-express-sequelize/) - pt-br.
+[Configurando o ORM Sequelize no NodeJS com ExpressJS - Rocketseat](https://blog.rocketseat.com.br/nodejs-express-sequelize/) - pt-br.
+
+[Post on my blog about this project.](https://arturkilldragon.wordpress.com/2019/08/25/crud-simples-com-react-consumindo-api-em-nodejs/) - pt-br
+
